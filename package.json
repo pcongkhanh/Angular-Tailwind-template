@@ -31,7 +31,7 @@
     "check:format": "prettier --check .",
     "check:lint": "eslint . --ext .js,.ts --color",
     "check:html": "htmlhint .",
-    "check:scss": "stylelint 'src/**/*.{css,scss}' --color",
+    "check:scss": "stylelint \"src/**/*.{css,scss}\" --color",
     "check:spelling": "cspell --config=.cspell.json \"{README.md,TODO.md,.github/*.md,src/**/*.ts,src/**/*.json}\"",
     "check:i18n": "transloco-validator src/assets/i18n/*.json",
     "check:staged": "lint-staged",
