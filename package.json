@@ -170,7 +170,7 @@
     "prettier": "^2.8.6",
     "prettier-eslint": "^15.0.1",
     "prettier-plugin-tailwindcss": "^0.2.5",
-    "rimraf": "^4.4.0",
+    "rimraf": "^5.0.1",
     "standard-version": "^9.5.0",
     "stylelint": "^15.3.0",
     "stylelint-config-recommended-scss": "^9.0.1",
